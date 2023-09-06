@@ -1,0 +1,22 @@
+{
+  "menu": {
+    "home":"Home",
+    "shop": "Shop",
+    "featured": "featured",
+    "recommended": "Recommended"
+  },
+  "field":{
+    "subTotalAmount":"Subtotal Amount :"
+  },
+  "button": {
+    "close":"Close",
+    "clearBasket":"Clear Basket",
+    "checkout":"Check Out"
+  },
+  "message":{
+    "emptyBasket":"You Basket is Empty"
+  },
+  "others":{
+    "myBasket":"My Basket"
+  }
+}
